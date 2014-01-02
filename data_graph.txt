@@ -1,0 +1,22 @@
+In-Built Graphs : <select name = "the_graph" >
+<option > --------- Select the Graph you want to Plot --------- </option>
+<option value=0 >Number of Comparisons by the Time of the Day</option>
+<option value=1 >RMS and BIAS at Stations for day-time Conditions</option>
+<option value=2 >RMS and BIAS at Stations for night-time Conditions</option>
+<option value=3 >Comparison of RMS calculated for Day and Night Conditions</option>
+<option value=4 >Kp dependence of RMS for different seasons and times of the day</option>
+<option value=5 >IMF Bz dependence of RMS for different seasons and times of the day</option>
+<option value=6 >Dependence of night-time RMS and BIAS on Geomagentic Latitude</option>
+<option value=7 >Dependence of day-time RMS and BIAS on Geomagentic Latitude</option>
+<option value=8 >High Altitude IMF Bz dependence of RMS for different seasons and times of the day</option>
+</select>
+<br />
+<br />
+Focused Data : <select name="focus_data">
+<option value="1">foF2</option>
+<option value="2">hmF2</option>
+<option value="3">TEC</option>
+</select>
+<br />
+<br />
+* For In-Built Graphs select the Time Period and Locations before submitting your query.

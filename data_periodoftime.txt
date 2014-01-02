@@ -1,0 +1,5 @@
+<br /><select name='pot'>
+<option value='1'>Day</option>
+<option value='2'>Night</option>
+<option value='3'>Twilight</option>
+</option>

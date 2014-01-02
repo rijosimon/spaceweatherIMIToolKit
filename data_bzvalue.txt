@@ -1,0 +1,4 @@
+<br />
+IMF Bz: <input type='text' name='bz1' > </input> to <input type='text' name='bz2'></input>
+* Bz ranges from -100 to +100.
+<br />

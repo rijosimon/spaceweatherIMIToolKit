@@ -1,0 +1,20 @@
+Model:<select name = "the_form">
+<option value=0>EPPIM/SEC</option>
+<option value=1>PIM/SEC</option>
+<option value=2>EPPIM/PIM</option>
+</select>
+<br />
+<br />
+Focused Data : <select name="focus_data">
+<option value="1">foF2</option>
+<option value="2">hmF2</option>
+<option value="3">TEC</option>
+</select>
+<br />
+<br />
+Statistical Parameters:<select name = 'stat_disp'>
+<option value=1>Bias</option>
+<option value=2>RMS</option>
+<option value=3>Both Bias and RMS</option>
+</select>
+

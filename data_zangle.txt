@@ -1,0 +1,4 @@
+<br />
+<input type='text' name='za1' /> to <input type='text' name='za2'>
+<br />
+* From 0 to 180, maximum range.
