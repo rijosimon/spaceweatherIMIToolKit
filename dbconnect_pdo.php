@@ -10,7 +10,7 @@
 function dbprode_connect()
 {
 
-	$dbconn = new PDO('mysql:host=dbprode; port=13308; dbname=db_1', 'spaceapp', 'sergeisimon');
+	$dbconn = new PDO('mysql:host=HOSTNAME; port=13308; dbname=db_1', 'username', 'password');
 	$dbconn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 	return($dbconn);
 }
